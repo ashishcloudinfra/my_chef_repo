@@ -1,0 +1,19 @@
+{
+"id": "new_global",
+"dit": {
+"dd_pcp_int": {
+"ear_file": ["ear1","ear2","ear3"],
+"domain_name": ["domain_1","domain_2","domain_3"],
+"cluster_name": ["cluster_1","cluster_2","cluster_3"],
+"host_url": "http://host_url:8080",
+"app_name": "app_name_for_application"
+},
+"dd_pcp_ext": {
+"ear_file": ["ear1","ear2","ear3"],
+"domain_name": ["domain_1","domain_2","domain_3"],
+"cluster_name": ["cluster_1","cluster_2","cluster_3"],
+"host_url": "http://host_url:8080",
+"app_name": "app_name_for_application"
+}
+}
+}
